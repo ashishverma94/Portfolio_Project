@@ -5,7 +5,7 @@ import './index.scss' ;
 import Yellow from '../../assets/images/yellow_back.png'
 import { useState,useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
-import Resume from '../../assets/pdf/resume.pdf';
+import Resume from '../../assets/pdf/resume1.pdf';
 
 const Home = ()=>{
     const [letterClass, setLetterClass] = useState('text-animate') ;
