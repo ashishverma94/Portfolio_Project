@@ -1,0 +1,32 @@
+
+  
+  
+
+  .proclass{
+    margin: 100px;
+  }
+
+  li{
+    font-size: 50px;
+    color: white;
+  }
+
+  img{
+    width: 300px;
+    height: 200px ;
+  }
+
+  h1{
+    font-size: 60px;
+    color: yellow;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  li:hover{
+    color: yellow;
+  }
+
+ 
